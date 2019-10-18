@@ -17,7 +17,7 @@ Portfolio 1
 Portfolio 2
 
 1. Plotting some diagrams which mention in that essay
-2. Applying Linear regression and test it using MSE and $R^2$
+2. Applying Linear regression and test it using MSE and $ R^2 $
 3. Sklearn RFE function
 
 
