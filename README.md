@@ -3,6 +3,8 @@ COMP257/ITEC657 Data Science Portfolio
 
 Author: Xiaotian Liu
 
+
+
 Portfolio 1
 
 1. Analysis of CSV data for cycling.
@@ -17,7 +19,7 @@ Portfolio 1
 Portfolio 2
 
 1. Plotting some diagrams which mention in that essay
-2. Applying Linear regression and test it using MSE and $ R^2 $
+2. Applying Linear regression and test it using MSE and $R^2$
 3. Sklearn RFE function
 
 
@@ -29,4 +31,5 @@ Portfolio 3
 
 
 
-Finally, I merged all three document into one called ***Portfolio.ipynb*** 
+Finally, I merged all three document into one called ***Portfolio.ipynb*** and downloaded as ***Portfolio.html***
+
