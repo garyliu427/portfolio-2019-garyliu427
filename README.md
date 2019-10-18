@@ -32,4 +32,3 @@ Portfolio 3
 
 
 Finally, I merged all three document into one called ***Portfolio.ipynb*** and downloaded as ***Portfolio.html***
-
