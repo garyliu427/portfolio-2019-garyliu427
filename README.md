@@ -1,12 +1,32 @@
 COMP257/ITEC657 Data Science Portfolio 
 ===
 
-This repository will hold your portfolio projects for this semester. You should customise this README.md file
-to document your own work - add your name and details and describe what you've done.  This will be displayed
-on your Github page.
+Author: Xiaotian Liu
 
-Portfolio projects
+Portfolio 1
 
-1. Analysis of CSV data for cycling 
+1. Analysis of CSV data for cycling.
+
+2. Creating the new table only with no measured power.
+3. Checking normal distribution for those variables.
+4. Finding the correlation among those features.
+5. Analysis relationship between Race, Workout and Ride by using scatter plots and histograms or box plots.
 
 
+
+Portfolio 2
+
+1. Plotting some diagrams which mention in that essay
+2. Applying Linear regression and test it using MSE and $$R^2$$
+3. Sklearn RFE function
+
+
+
+Portfolio 3
+
+1. Visualise random centers on the diagram
+2. Define functions to illustrate Kmeans for each iteration by calling function
+
+
+
+Finally, I merged all three document into one called ***Portfolio.ipynb*** 
